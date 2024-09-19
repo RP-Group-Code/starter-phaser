@@ -15,3 +15,6 @@ command :
 
 2. npm run start
 3. Enjoy
+
+
+![Screenshot 2024-09-19 203431](https://github.com/user-attachments/assets/ece24d39-2d97-469b-9c07-ea27dc9b994a)    
