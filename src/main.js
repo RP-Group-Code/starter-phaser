@@ -6,11 +6,12 @@ const config = {
   type: Phaser.AUTO,
   width: 400, //mengatur lebar(width) dan tinggi(height)
   height: 620,
+  // backgroundColor: "#4488AA",
   physics: {
     default: "arcade",
-    arcade: {
-      gravity: { y: 200 }, //mengatur besar gaya gravitasi
-    },
+    // arcade: {
+    //   gravity: { y: 200 }, //mengatur besar gaya gravitasi
+    // },
   },
   scene: [scenes],
   scale: { 
