@@ -5,7 +5,7 @@ NODE V20.1
 command : 
 1. npm install
 
-3. Ubah nama / buat baru scenes seui dengan nama scenes project game yang diinginkan pada directory :
+3. Ubah nama / buat baru scenes sesuai dengan nama scenes project game yang diinginkan pada directory :
     Nama_Project/
       └── src/
           └── scenes/
