@@ -9,9 +9,8 @@ command :
     Nama_Project/
       └── src/
           └── scenes/
-              ├── scene1.js
-              ├── scene2.js
-              └── scene3.js
+              ├── ..........js
+             
 
 2. npm run start
 3. Enjoy
